@@ -26,6 +26,7 @@
 </div>
 
 
+</td><td valign="top" width="33%">
 
 
 ### Tools and technologies  
@@ -46,7 +47,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-</td><td valign="top" width="33%">
+
 
 
 
