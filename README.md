@@ -12,7 +12,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -26,7 +26,7 @@
 </div>
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 ### Tools and technologies  
@@ -46,7 +46,7 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
